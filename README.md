@@ -1,4 +1,4 @@
-## Web Based Chat
+## Web Based Chat Site
 Real-time chat application using ASP.NET SignalR and KnockoutJS
 #### Chat site features
 - Start a group chat
