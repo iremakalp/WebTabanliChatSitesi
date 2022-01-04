@@ -1,16 +1,17 @@
-## Web Tabanlı Chat 
-ASP.NET SignalR ve KnockoutJS kullanan gerçek zamanlı sohbet uygulaması. 
-Web için projede mevcuttur.
-//Özellikler
-Grup Sohbeti
-Chat Odası oluşturma
-Temel emojiler
+## Web Based Chat
+Real-time chat application using ASP.NET SignalR and KnockoutJS
+#### Chat site features
+- Start a group chat
+- Join one of the available groups
+- Create a chat room
+- Delete a chat room
+- Sending basic emoji
 
 ## Kurulum
-- Visual studioda proje çalıştırılır.
-- Eksik nuget paketleri varsa yüklenir.
-- Paket yönetici konsolu ile veritabanını oluşturun.
-- Veritabanı oluşturmak için gereken kod
+- Run the project in visual studio
+- Installs if there are missing nuget packages
+- Create the database with the package manager console
+- Code required to create database
 ```
 update-database
 ```
